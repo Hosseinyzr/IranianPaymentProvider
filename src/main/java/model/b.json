@@ -1,0 +1,13 @@
+{
+  "data": {
+    "code": 100,
+    "message": "Paid",
+    "card_hash": "F5ACCFCCA3F88C270FCA9B98A90267F88D447FC1933431174C75C3E889C91304",
+    "card_pan": "610433******6935",
+    "ref_id": 42633975701,
+    "fee_type": "Merchant",
+    "fee": 2500,
+    "order_id": null
+  },
+  "errors": []
+}
